@@ -71,7 +71,7 @@ Projeto focado em explorar **arquitetura de software, comunicação em tempo rea
 
 ---
 
-# 📊 Estatísticas do GitHub
+[# 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Projeto focado em explorar **arquitetura de software, comunicação em tempo rea
 </div>
 
 ---
-
+](url)
 # 📫 Contato
 
 <div align="center">
