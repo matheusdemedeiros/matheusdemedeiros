@@ -62,27 +62,17 @@ Alguns tipos de sistemas que gosto de desenvolver:
 Aplicação web de **jogo multiplayer em tempo real** utilizando:
 
 - .NET
-- SignalR
+- SignalR (comunicação em tempo real)
 - Angular
 - Clean Architecture
-- WebSockets
+
+🚀 **Acesse o projeto:**  
+👉 **[Jogar TicTacToe Online](https://app.tictactoe.matheusdemedeiros.com/)**
 
 Projeto focado em explorar **arquitetura de software, comunicação em tempo real e separação de camadas**.
 
 ---
 
-[# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdemedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdemedeiros&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
-
----
-](url)
 # 📫 Contato
 
 <div align="center">
