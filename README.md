@@ -48,9 +48,8 @@ Alguns tipos de sistemas que gosto de desenvolver:
 ✔ APIs REST escaláveis com .NET  
 ✔ Sistemas web com Angular  
 ✔ Aplicações containerizadas com Docker  
-✔ Integrações com Microsoft Graph e Entra ID  
+✔ Integrações com sistemas externos
 ✔ Arquiteturas multi-tenant  
-✔ Workers e serviços de sincronização de dados  
 ✔ Aplicações com comunicação em tempo real (SignalR)
 
 ---
